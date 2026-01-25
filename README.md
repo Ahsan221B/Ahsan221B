@@ -23,11 +23,11 @@
 <p align="center"><a href="https://iahsanmustafa.com"><img src="https://github-profile-trophy.vercel.app/?username=Ahsan221B&margin-w=5&no-frame=true" alt="Ahsan221B"/></a></p>
 
 
-- 👀 I’m interested in Native Mobile and Fullstack Web App Development
+- 👀 I’m interested in Native Mobile App Development, Data Science, and DevOPs
 
-- 🌱 I’m currently learning Kotlin Multiplatform Mobile and exploring Reddit APIs
+- 👨🏻‍💻 I’m currently learning more about Data @ School 21 in Moscow
 
-- 💞️ I’m looking to collaborate on projects that involve using Reddit APIs
+- 💞️ I’m looking and open to collaborate on projects that involve VLMs or Big Data
 
 - 📫 You may reach me on the following email address: hello@iahsanmustafa.com
 
