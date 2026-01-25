@@ -67,10 +67,10 @@
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
 <!-- Top Languages Card - Updated to show more languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahsan221B&show_icons=true&locale=en&layout=compact&langs_count=10&hide=html,css&theme=default" alt="Ahsan221B"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahsan221B&show_icons=true&locale=en&layout=compact&langs_count=10&hide=html,css&theme=radical" alt="Ahsan221B"/>
 <br/><br/>
 <!-- GitHub Stats Card -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahsan221B&show_icons=true&locale=en&count_private=true&theme=default" alt="Ahsan221B" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahsan221B&show_icons=true&locale=en&count_private=true&theme=radical" alt="Ahsan221B" />
 <br/><br/>
 <!-- Streak Stats -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan221B&theme=default" alt="Ahsan221B" />
