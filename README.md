@@ -47,14 +47,9 @@ Graduate Research Associate at NUST MISIS (2024 to 2026), AI-driven infrastructu
 
 ## Activity
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahsan221B&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan221B&layout=compact&hide_border=true&langs_count=6&theme=transparent" />
-</p>
-
-<p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsan221B&hide_border=true&bg_color=00000000&color=888888&line=FF6A1A&point=FF6A1A&area=true&area_color=FF6A1A" />
-</p>
+<p align="center"><img src="assets/stats.svg" alt="GitHub stats" /></p>
+<p align="center"><img src="assets/contributions.svg" alt="Contributions over the last year" width="90%" /></p>
+<p align="center"><img src="assets/languages.svg" alt="Top languages" /></p>
 
 ## Latest writing
 
