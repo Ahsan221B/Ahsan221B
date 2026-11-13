@@ -59,6 +59,10 @@ Graduate Research Associate at NUST MISIS (2024 to 2026), AI-driven infrastructu
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Streaming financial transactions with CDC, Kafka and Spark](https://iahsanmustafa.com/blog/financial-cdc-streaming-pipeline)
+- [Don&#39;t let the LLM count: fixing a job-skills digest](https://iahsanmustafa.com/blog/dont-let-the-llm-count)
+- [Road defects from the sky: from a benchmark to a map in QGIS](https://iahsanmustafa.com/blog/road-defects-from-the-sky)
+- [Building a personal AI agent on n8n: four workflows, one bot](https://iahsanmustafa.com/blog/n8n-personal-ai-agent)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
