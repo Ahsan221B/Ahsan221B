@@ -59,7 +59,7 @@ def langs_svg(u):
     for r in u["repositories"]["nodes"]:
         for e in r["languages"]["edges"]:
             size[e["node"]["name"]] += e["size"]; color[e["node"]["name"]] = e["node"]["color"] or MUTED
-    top = size.most_common(6); total = sum(s for _, s in top) or 1
+    top = size.most_common(6); total = sum(s for _, s in top) or 1; top = [t for t in top if t[1] / total >= 0.01]
     w = 480; x = 0
     parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="80" viewBox="0 0 {w} 80" style="{FONT}">',
              f'<clipPath id="r"><rect width="{w}" height="8" rx="4"/></clipPath><g clip-path="url(#r)">']
