@@ -1,75 +1,68 @@
-<h1 align="center">Hi 👋, I'm Ahsan Mustafa</h1>
-<h3 align="center">A Software Engineer 🧑🏽‍💻 @ Sudo Killer</h3>
+<div align="center">
+
+# Ahsan Mustafa
+
+### Senior Data Engineer · ML Researcher
+
+**Data platforms that hold up in production. Research that ships.**
+
+[![Website](https://img.shields.io/badge/iahsanmustafa.com-161616?style=flat-square&logo=googlechrome&logoColor=white)](https://iahsanmustafa.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=DPbmpGUAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iahsanmustafa)
+[![Telegram](https://img.shields.io/badge/@sudozef-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sudozef)
+
+</div>
+
+<br>
+
+I've spent six years building data platforms for fintech and healthcare: CDC streaming, lakehouses, and the pipelines behind them. I led a team of six data engineers along the way. In 2023 I moved to Moscow to go deeper into machine learning, which turned into an MSc at NUST MISIS (Red Diploma) and two published papers on detecting road defects from drone imagery.
+
+Now I sit where those two meet: data systems built well enough that models can actually be trusted on top of them.
+
+<br>
+
+## Selected work
+
+| | |
+|---|---|
+| **Real-time financial CDC pipeline**<br><sub>Postgres WAL → CDC → Kafka → Spark → Delta Lake (Bronze, Silver, Gold) → Redshift</sub> | Streaming change data from a fintech client's core database into a medallion lakehouse with alerting. [Case study →](https://iahsanmustafa.com/blog/financial-cdc-streaming-pipeline) |
+| **Road defects from the sky**<br><sub>YOLO · PyTorch · GeoTIFF · A100</sub> | My MSc research. Detection on UAV orthophotos with GSD-adaptive tiling, mAP50 from 55% to 86%. Two papers. [Case study →](https://iahsanmustafa.com/blog/road-defects-from-the-sky) |
+| **[Carbon vs. Capital](https://github.com/Ahsan221B/Carbon-vs-Capital)**<br><sub>Azure Data Factory · Databricks · Snowflake · Power BI</sub> | Links corporate emissions data to US-listed companies, end to end from ingestion to dashboard. |
+| **Personal AI agent**<br><sub>n8n · LangChain · Telegram Bot API</sub> | A multi-tool agent built for School 21, with notes on what I'd change for production. [Case study →](https://iahsanmustafa.com/blog/n8n-personal-ai-agent) |
+
+## Research
+
+- **YOLO26 for road defect detection on UAV imagery**, presented at DLCP 2026
+- **Pavement defect detection with YOLO**, published in *Light & Engineering*
+
+Graduate Research Associate at NUST MISIS (2024 to 2026), AI-driven infrastructure inspection, in collaboration with HSE. Full list on [Google Scholar](https://scholar.google.com/citations?user=DPbmpGUAAAAJ&hl=en).
+
+## Toolbox
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,kafka,azure,aws,postgres,docker,linux&perline=10" />
+</p>
+
+<sub>Also: Spark · Databricks · Snowflake · Delta Lake · Redshift · Airflow · dbt · YOLO · LangChain · n8n</sub>
+
+## Activity
+
 <p align="center">
-	<a href="https://iahsanmustafa.com"><img src="https://img.shields.io/badge/Portfolio-open-brightgreen" alt="Ahsan Mustafa"> </a>
-	<a href="https://www.linkedin.com/in/iahsanmustafa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://github.com/Ahsan221B"><img src="https://img.shields.io/github/followers/Ahsan221B?style=flat&label=GitHub&color=181717&logo=github" alt="GitHub"></a>  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahsan221B&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan221B&layout=compact&hide_border=true&langs_count=6&theme=transparent" />
 </p>
 
-</br>
-
-<h3 align="left">About Me:</h3>
-
-- 💻 Open Source Contributor
-- 🏠 Level 2 on Fiverr (4.9/5 Stars)
-- 🚀 Helping Small Businesses Scale
-- 👀 Interested in Native Mobile App Development, Data Science, and DevOps
-- 👨🏻‍💻 Currently learning more about Data @ School 21 in Moscow
-- 💞️ Looking and open to collaborate on projects that involve VLMs or Big Data
-- 📫 Reach me at: hello@iahsanmustafa.com
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahsan221B&label=Profile%20views&color=0e75b6&style=flat" alt="Ahsan221B" /></p>
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iahsanmustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahsan221B" height="30" width="40" /></a>
-<a href="https://instagram.com/ahscaleit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahscaleit" height="30" width="40" /></a>
-</p>
-
-<br/>
-
-<h3 align="left">Tools and Technologies:</h3>
 <p align="center">
-<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
-<img alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> 
-<img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
-<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
-<img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> 
-<img alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> 
-<img alt="net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
-<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-<img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
-<img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> 
-<img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
-<img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-<img alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-<img alt="material-ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/> 
-<img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-<img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-<img alt="adobe-xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=#FF61F6"/> 
-<img alt="adobe-photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black"/> 
-<img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> 
-<img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
-<img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsan221B&hide_border=true&bg_color=00000000&color=888888&line=FF6A1A&point=FF6A1A&area=true&area_color=FF6A1A" />
 </p>
 
-<br/>
+## Latest writing
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<!-- Streak Stats -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan221B&theme=default" alt="Ahsan221B" />
-</p>
+<br>
 
-<!-- Optional: Add a note about language stats -->
-<p align="center">
-<sub>Note: My language stats are based on my public repositories and may not reflect my recent private projects.</sub>
-</p>
+<div align="center">
+<sub>Open to senior data engineering and ML roles worldwide · remote or relocation</sub>
+</div>

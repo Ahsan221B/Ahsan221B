@@ -1,0 +1,19 @@
+name: Latest blog posts
+on:
+  schedule:
+    - cron: "17 4 * * *"   # daily, 09:17 Pakistan time
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://iahsanmustafa.com/rss.xml"
+          max_post_count: 4
+          committer_username: "Ahsan Mustafa"
+          committer_email: "iahsanmustafa@gmail.com"
+          commit_message: "docs: refresh latest posts"
