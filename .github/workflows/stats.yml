@@ -1,4 +1,5 @@
 name: Profile stats
+# Optional: add a fine-grained token as the STATS_TOKEN secret to count private repo languages.
 on:
   schedule:
     - cron: "41 3 * * *"   # daily, 08:41 Pakistan time
