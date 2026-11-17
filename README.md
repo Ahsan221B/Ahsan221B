@@ -8,7 +8,6 @@
 
 [![Website](https://img.shields.io/badge/iahsanmustafa.com-161616?style=flat-square&logo=googlechrome&logoColor=white)](https://iahsanmustafa.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=DPbmpGUAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iahsanmustafa)
 [![Telegram](https://img.shields.io/badge/@sudozef-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sudozef)
 
 </div>
