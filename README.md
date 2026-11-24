@@ -53,10 +53,10 @@ Graduate Research Associate at NUST MISIS (2024 to 2026), AI-driven infrastructu
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The CDC trap: when a replication slot fills your primary](https://iahsanmustafa.com/blog/postgres-replication-slot-disk)
+- [How I built this site: content in git, a chat on Telegram](https://iahsanmustafa.com/blog/how-i-built-this-site)
 - [Keep state out of the prompt: a state machine for a Telegram bot](https://iahsanmustafa.com/blog/state-machine-telegram-bot-n8n)
 - [Streaming financial transactions with CDC, Kafka and Spark](https://iahsanmustafa.com/blog/financial-cdc-streaming-pipeline)
-- [Don&#39;t let the LLM count: fixing a job-skills digest](https://iahsanmustafa.com/blog/dont-let-the-llm-count)
-- [Road defects from the sky: from a benchmark to a map in QGIS](https://iahsanmustafa.com/blog/road-defects-from-the-sky)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
